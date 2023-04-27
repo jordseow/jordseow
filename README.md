@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Seow</h1>
 <h3 align="center">A data scientist from Singapore</h3>
 
-- 🌱 I’m currently learning **about Machine Learning for trading with Python**
+- 🌱 I’m currently learning **about Machine Learning for trading with Python and Bayesian Statistics**
 
 - 💬 Ask me about **data science-related topics!**
 
