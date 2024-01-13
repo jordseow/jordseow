@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan Seow</h1>
 <h3 align="center">A data scientist from Singapore</h3>
 
-🌱 I’m currently learning about:
--   Machine Learning for trading with Python 
--   Bayesian statistics
--   Deep learning
-
-💬 Ask me about **data science-related topics!**
-
 📫 How to reach me **jordan_seow@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
